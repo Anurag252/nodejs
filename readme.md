@@ -62,4 +62,3 @@ makefifo > namedpipe
 type something
 cat > namedpipe 
 
-
